@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "euclid-calculator", "euclid-calculator\euclid-calculator.pyproj", "{B6B2FF0C-EC07-46A9-B0E3-1A7B482FAF5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B2FF0C-EC07-46A9-B0E3-1A7B482FAF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B2FF0C-EC07-46A9-B0E3-1A7B482FAF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F7266D-9F09-41DA-8E54-EB8C9E9C625B}
+	EndGlobalSection
+EndGlobal
